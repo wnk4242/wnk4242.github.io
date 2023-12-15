@@ -91,7 +91,7 @@ Roles and Responsibilities: Consulted and advised on quantitative research inqui
 
 ## Service
 
-### Peer Reviewer
+### Post-hoc Reviewer
 
 - American Educational Research Association Annual Meeting
 - Behavior Research Methods
