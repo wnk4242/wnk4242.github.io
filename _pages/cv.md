@@ -19,15 +19,15 @@ redirect_from:
 ## Education
 
 **Texas A&M University**, College Station, TX  
-**Doctor of Philosophy**, Research, Measurement and Statistics _Expected 2024_  
+- **Doctor of Philosophy**, Research, Measurement and Statistics _Expected 2024_  
 Dissertation: Examination of Methods of Bayesian Hypothesis Testing for Direct Replication Studies in a Meta-analytic Framework  
 Advisor: Christopher G. Thompson
 
 **John Jay College of Criminal Justice, City University of New York**, New York, NY  
-**Master of Arts**, Forensic Mental Health Counseling _December 2016_
+- **Master of Arts**, Forensic Mental Health Counseling _December 2016_
 
 **Tianjin Normal University**, Tianjin, China  
-**Bachelor of Science**, Applied Psychology _May 2013_
+- **Bachelor of Science**, Applied Psychology _May 2013_
 
 ## Research
 
