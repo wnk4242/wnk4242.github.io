@@ -90,7 +90,7 @@ Advisor: Christopher G. Thompson
 
 - American Educational Research Association Annual Meeting
 - Behavior Research Methods
-- Methods Coordinating Group, Campbell Collaboration
+- [Methods Coordinating Group, Campbell Collaboration](https://www.campbellcollaboration.org/)
 
 ## Honors and Awards
 
