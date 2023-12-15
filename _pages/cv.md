@@ -58,7 +58,7 @@ Advisor: Christopher G. Thompson
 - Meta-analysis of Behavioral Research
   * Roles and Responsibilities: Tutoring sessions, grading assignments and recording video solutions, and giving lectures on educational statistical analysis, research methods, and meta-analysis.
 
-## Work Experience
+## Professional Experience
 
 ### Graduate Student Assistant | Educational Research and Evaluation Laboratory, Department of Educational Psychology, College of Education & Human Development, Texas A&M University, College Station, TX  
 - Roles and Responsibilities: Consulted and advised on quantitative research inquiries, including research design and statistical analyses.
