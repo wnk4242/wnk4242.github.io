@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[Download my CV here](https://wnk4242.github.io/files/CV_2023.pdf)
+
 # Naike Wang
 
 ## Contact Information
