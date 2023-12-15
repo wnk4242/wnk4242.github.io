@@ -86,7 +86,7 @@ Advisor: Christopher G. Thompson
 
 ## Service
 
-### Post-hoc Reviewer
+### Ad Hoc Reviewer
 
 - American Educational Research Association Annual Meeting
 - Behavior Research Methods
