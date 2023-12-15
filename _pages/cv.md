@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+# Naike Wang
+
 ## Contact Information
 
 **Address:** 2200 Cottage Ln., College Station, TX 77845  
