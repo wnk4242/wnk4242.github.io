@@ -23,6 +23,7 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    compared to traditional methods that typically ignore it. My ultimate goal is to develop strategies for determining optimal sample sizes and the appropriate number of replications.
 
 - Credibility of research findings in educational psychology
+  
    Statistical power plays a key role in ensuring the reliability, precision, and replicability of effect size estimation. In psychology, the average power is distressingly low—estimated at 36% with only 8% of studies deemed 
    adequately powered. The impact of such issues on educational psychology has not received the attention it deserves. I am currently researching the credibility (true positive rate) of meta-analyses published in five 
    leading educational psychology journals between 2012 and 2022. Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. 
