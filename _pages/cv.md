@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download my CV here](https://wnk4242.github.io/files/CV_2023.pdf)
+
 
 # Naike Wang
 
@@ -15,8 +15,7 @@ redirect_from:
 **Address:** 2200 Cottage Ln., College Station, TX 77845  
 **E-mail:** [wangnaike@tamu.edu](mailto:wangnaike@tamu.edu)  
 **Phone:** (646) 460-0890  
-**ResearchGate:** [https://www.researchgate.net/profile/Naike-Wang](https://www.researchgate.net/profile/Naike-Wang)  
-**Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=QD-iEXoAAAAJ&hl=en&inst=14379318592444324147)
+[Download my CV here](https://wnk4242.github.io/files/CV_2023.pdf)
 
 ## Education
 
