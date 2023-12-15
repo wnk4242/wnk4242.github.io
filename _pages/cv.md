@@ -59,7 +59,7 @@ Advisor: Christopher G. Thompson
 - Statistical Analysis in Educational Research II  
 - Meta-analysis of Behavioral Research
 
---Roles and Responsibilities: Tutoring sessions, grading assignments, and giving lectures on educational statistical analysis, research methods, and meta-analysis.
+-Roles and Responsibilities: Tutoring sessions, grading assignments, and giving lectures on educational statistical analysis, research methods, and meta-analysis.
 
 ## Work Experience
 
