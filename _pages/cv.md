@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-# Naike Wang, M.A.
-
 ## Contact Information
 
 **Address:** 2200 Cottage Ln., College Station, TX 77845  
