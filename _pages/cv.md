@@ -33,7 +33,7 @@ Advisor: Christopher G. Thompson
 
 ### Peer-Reviewed Articles
 
-- **Wang, N.** (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63.
+- **Wang, N.** (2023). [Conducting meta-analyses of proportions in R](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R). _Journal of Behavioral Data Science_, 3(2), 1-63.
 - Thompson, C. G., Semma, B., **Wang, N.**, & Ettekal, I. (2021). Using Bayesian meta-regression to advance prevention science research: An introduction and empirical illustration. _Prevention Science_, 23(3), 455-466.
 - Gilson, C. B., Thompson, C. G., Ingles, K. E., Stein, K. E., **Wang, N.**, & Nygaard, M. A. (2021). The job coaching academy for transition educators: A preliminary evaluation. _Career Development and Transition for Exceptional Individuals_, 44(3), 148-160.
 
