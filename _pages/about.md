@@ -14,3 +14,5 @@ In addition to research replicability, my work also focuses on improving meta-an
 
 # Interests
 - Meta-analysis
+- Replicability
+- Bayesian statistics
