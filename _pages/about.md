@@ -13,7 +13,15 @@ My primary area of research interest is the field of research replicability, whi
 
 In addition to research replicability, my work also focuses on improving meta-analytic methods, and my research currently centers on analyzing proportional data using meta-analysis. I have made a contribution to this field by publishing a comprehensive methodological guide on this subject.
 
-# Interests
-- Meta-analysis
+# Interests 
+- Meta-analysis 
 - Replicability
 - Bayesian statistics
+
+# Education
+- PhD in RMS
+  - Texas A&M University
+- MA in Forensic Mental Health
+  - John Jay College of Criminal Justice
+- BA in Applied Psychology
+  - Tianjin Normal University
