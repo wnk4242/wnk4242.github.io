@@ -58,15 +58,14 @@ Advisor: Christopher G. Thompson
 - Statistical Analysis in Educational Research I  
 - Statistical Analysis in Educational Research II  
 - Meta-analysis of Behavioral Research
-
-Roles and Responsibilities: Tutoring sessions, grading assignments, and giving lectures on educational statistical analysis, research methods, and meta-analysis.
+  * Roles and Responsibilities: Tutoring sessions, grading assignments, and giving lectures on educational statistical analysis, research methods, and meta-analysis.
 
 ## Work Experience
 
 ### Graduate Student Assistant
 
 **Educational Research and Evaluation Laboratory, Department of Educational Psychology, College of Education & Human Development, Texas A&M University**, College Station, TX  
-Roles and Responsibilities: Consulted and advised on quantitative research inquiries, including research design and statistical analyses.
+- Roles and Responsibilities: Consulted and advised on quantitative research inquiries, including research design and statistical analyses.
 
 ## Courses
 
