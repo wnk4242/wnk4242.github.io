@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Welcome
 
 My primary area of research interest is the field of research replicability, which involves the evaluation and planning of close replications as well as assessing the replicability of psychological findings. My work makes use of a wide range of statistical and methodological tools, including Monte Carlo simulations, Bayesian analysis, and meta-analytic methods. 
 
