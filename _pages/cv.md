@@ -109,6 +109,9 @@ Advisor: Christopher G. Thompson
 ### Statistical Language
 
 - R
+- Comprehensive Meta-Analysis
+- OpenBUGS
 - Stata
-- SAS
 - SPSS
+- SAS
+- Mplus
