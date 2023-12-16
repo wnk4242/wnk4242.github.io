@@ -15,7 +15,7 @@ redirect_from:
 **Address:** 2200 Cottage Ln., College Station, TX 77845  
 **E-mail:** [wangnaike@tamu.edu](mailto:wangnaike@tamu.edu)  
 **Phone:** (646) 460-0890  
-Download my CV [here](https://wnk4242.github.io/files/CV_2023.pdf).
+[Download my CV here.](https://wnk4242.github.io/files/CV_2023.pdf)
 
 ## Education
 
