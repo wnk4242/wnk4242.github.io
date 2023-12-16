@@ -26,7 +26,7 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several fundamental 
    questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of replications. Gaining a better 
    understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. Moving forward, I plan to assess the impact of power analysis methods that account for heterogeneity 
-   compared to traditional methods that typically ignore it. My ultimate goal is to develop strategies for determining optimal sample sizes and the appropriate number of replications.
+   compared to traditional methods that typically ignore it. Ultimately, my goal is to develop strategies for determining optimal sample sizes and the appropriate number of replications.
 
 ## Meta-analysis of Proportions
 
