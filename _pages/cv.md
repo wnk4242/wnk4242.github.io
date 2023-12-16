@@ -40,8 +40,8 @@ Advisor: Christopher G. Thompson
 
 ### Conference Presentations
 
-- **Wang, N.** (April, 2024) Effect size, heterogeneity, and power in meta-analyses of direct replications. Paper accepted by the annual meeting of the American Educational Research Association, Philadelphia, PA.
-- **Wang, N.** (March, 2023) Underpowered studies and overrepresented significant findings in Educational Psychology. Roundtable Session at the annual meeting of the Texas Universities' Educational Statistics And Psychometrics, Austin, TX.
+- **Wang, N.** (April, 2024) [Effect size, heterogeneity, and power in meta-analyses of direct replications](https://wnk4242.github.io/files/heterogeneity paper.pdf). Paper accepted by the annual meeting of the American Educational Research Association, Philadelphia, PA.
+- **Wang, N.** (March, 2023) [Underpowered studies and overrepresented significant findings in Educational Psychology]((https://wnk4242.github.io/files/power paper.pdf)). Roundtable Session at the annual meeting of the Texas Universities' Educational Statistics And Psychometrics, Austin, TX.
 - **Wang, N.**, & Liu, C. (2017) The effectiveness of sex offender registration and notification laws with juvenile sex offenders: A systematic review. Poster presented at the 2017 American Psychological Association Annual Convention, Washington, D.C.
 - **Wang, N.**, Denisenkov, P., Robinson, J., Belden, A., & Jeglic, E. (2016) Collateral consequences of sex offender registration laws: A systematic review. Poster presented at the 21st Annual Joint New York State Association for the Treatment of Sexual Abusers and Alliance Conference, Albany, NY.
 
