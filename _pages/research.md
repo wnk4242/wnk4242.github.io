@@ -12,8 +12,7 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    Psychologists are currently faced with a pressing methodological challenge: developing a universally accepted, empirically validated framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian 
    hypothesis testing within a meta-analytic framework and explore how well such an approach answers the following question: _“Do the pooled data from all replications support or refute the presence of the psychological 
    effect?”_ More importantly, my research expands our understanding by answering an essential follow-up question: _“How often are our conclusions about the replicability of original studies incorrect, based on their 
-   replications?”_ Moving forward, my aim is to apply the advancements from my dissertation to empirical replication data. This effort aligns with my long-term objective of developing a statistical framework designed to 
-   assess the replications of advanced and complex research designs. 
+   replications?”_
 
 - Credibility of research findings in educational psychology
   
@@ -25,8 +24,7 @@ Over the last decade, psychology has faced a replication crisis because efforts 
 
    Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several fundamental 
    questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of replications. Gaining a better 
-   understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. Moving forward, I plan to assess the impact of power analysis methods that account for heterogeneity 
-   compared to traditional methods that typically ignore it. Ultimately, my goal is to develop strategies for determining optimal sample sizes and the appropriate number of replications.
+   understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects.
 
 ## Meta-analysis of Proportions
 
