@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Research Replicability
-Over the last decade, psychology has faced a replication crisis because efforts to replicate past study findings often fail to yield consistent results. Psychologists have conducted several large-scale multi-lab replication projects (such as the Many Labs series) to reassess the replicability of earlier findings. I am currently pursuing three lines of research to enhance our understanding of research replicability:
+Over the last decade, psychology has faced a replication crisis because efforts to replicate past study findings often fail to yield consistent results. I am currently pursuing three lines of research to enhance our understanding of research replicability:
 
 - The application of meta-analytic Bayesian hypothesis testing in the evaluation of direct replications
 
