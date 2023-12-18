@@ -105,10 +105,5 @@ Advisor: Christopher G. Thompson
 
 ### Statistical Language
 
-- R
-- Comprehensive Meta-Analysis
-- OpenBUGS
-- Stata
-- SPSS
-- SAS
-- Mplus
+- Advanced: R, JAGS, OpenBUGS
+- Intermediate: JMP, JASP, Stata, SPSS, SAS, Mplus
