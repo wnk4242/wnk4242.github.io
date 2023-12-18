@@ -7,7 +7,7 @@ author_profile: true
 ## Research Replicability
 Over the last decade, psychology has faced a replication crisis because efforts to replicate past study findings often fail to yield consistent results. Psychologists have conducted several large-scale multi-lab replication projects (such as the Many Labs series) to reassess the replicability of earlier findings. I am currently pursuing three lines of research to enhance our understanding of research replicability:
 
-- The application of Bayesian meta-analysis in the evaluation of direct replications
+- The application of meta-analytic Bayesian hypothesis testing in the evaluation of direct replications
 
    Psychologists are currently faced with a pressing methodological challenge: developing a universally accepted, empirically validated framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian 
    hypothesis testing within a meta-analytic framework and explore how well such an approach answers the following question: _“Do the pooled data from all replications support or refute the presence of the psychological 
