@@ -34,14 +34,14 @@ Advisor: Christopher G. Thompson
 
 ### Peer-Reviewed Articles
 
-- **Wang, N.** (2023). [Conducting meta-analyses of proportions in R](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R). _Journal of Behavioral Data Science_, 3(2), 1-63.
-- Thompson, C. G., Semma, B., **Wang, N.**, & Ettekal, I. (2021). [Using Bayesian meta-regression to advance prevention science research: An introduction and empirical illustration](https://link.springer.com/article/10.1007/s11121-021-01330-8). _Prevention Science_, 23(3), 455-466.
-- Gilson, C. B., Thompson, C. G., Ingles, K. E., Stein, K. E., **Wang, N.**, & Nygaard, M. A. (2021). [The job coaching academy for transition educators: A preliminary evaluation](https://journals.sagepub.com/doi/abs/10.1177/2165143420958607). _Career Development and Transition for Exceptional Individuals_, 44(3), 148-160.
+- **Wang, N.** (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63. [(available here)](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R)
+- Thompson, C. G., Semma, B., **Wang, N.**, & Ettekal, I. (2021). Using Bayesian meta-regression to advance prevention science research: An introduction and empirical illustration. _Prevention Science_, 23(3), 455-466. [(available here)](https://link.springer.com/article/10.1007/s11121-021-01330-8)
+- Gilson, C. B., Thompson, C. G., Ingles, K. E., Stein, K. E., **Wang, N.**, & Nygaard, M. A. (2021). The job coaching academy for transition educators: A preliminary evaluation. _Career Development and Transition for Exceptional Individuals_, 44(3), 148-160. [(available here)](https://journals.sagepub.com/doi/abs/10.1177/2165143420958607)
 
 ### Conference Presentations
 
-- **Wang, N.** (April, 2024) [Effect size, heterogeneity, and power in meta-analyses of direct replications](https://wnk4242.github.io/files/heterogeneity paper.pdf). Paper accepted by the annual meeting of the American Educational Research Association, Philadelphia, PA.
-- **Wang, N.** (March, 2023) [Underpowered studies and overrepresented significant findings in Educational Psychology](https://wnk4242.github.io/files/power paper.pdf). Roundtable Session at the annual meeting of the Texas Universities' Educational Statistics And Psychometrics, Austin, TX.
+- **Wang, N.** (April, 2024) Effect size, heterogeneity, and power in meta-analyses of direct replications. Paper accepted by the annual meeting of the American Educational Research Association, Philadelphia, PA. [(available here)](https://wnk4242.github.io/files/heterogeneity paper.pdf)
+- **Wang, N.** (March, 2023) Underpowered studies and overrepresented significant findings in Educational Psychology. Roundtable Session at the annual meeting of the Texas Universities' Educational Statistics And Psychometrics, Austin, TX. [(available here)](https://wnk4242.github.io/files/power paper.pdf)
 - **Wang, N.**, & Liu, C. (2017) The effectiveness of sex offender registration and notification laws with juvenile sex offenders: A systematic review. Poster presented at the 2017 American Psychological Association Annual Convention, Washington, D.C.
 - **Wang, N.**, Denisenkov, P., Robinson, J., Belden, A., & Jeglic, E. (2016) Collateral consequences of sex offender registration laws: A systematic review. Poster presented at the 21st Annual Joint New York State Association for the Treatment of Sexual Abusers and Alliance Conference, Albany, NY.
 
