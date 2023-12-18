@@ -89,7 +89,7 @@ Advisor: Christopher G. Thompson
 
 ### Ad Hoc Reviewer
 
-- American Educational Research Association Annual Meeting
+- American Educational Research Association Annual Meeting (2024)
 - Behavior Research Methods
 - Methods Coordinating Group, [Campbell Collaboration](https://www.campbellcollaboration.org/)
 
