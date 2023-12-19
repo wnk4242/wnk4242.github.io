@@ -19,3 +19,5 @@ My expertise encompasses a broad spectrum of statistical and methodological tool
 - Replicability
 - Meta-analysis
 - Bayesian statistics
+
+(Here's a link to my PhD advisor's [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About))
