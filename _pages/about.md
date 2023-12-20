@@ -16,8 +16,8 @@ I also work on methodological issues in meta-analytic methods, with a particular
 My expertise encompasses a broad spectrum of statistical and methodological tools, including Monte Carlo simulations, Bayesian analysis, and advanced meta-analytic methods. With over a decade of experience in statistical programming using R, I am passionate about educating the public in R programming for the greater good. You can view my video tutorial to see a glimpse of my teaching approach in R, [available here](https://www.youtube.com/watch?v=2wbXTFvaRnM&t=764s).
 
 # Interests 
-- Replicability
-- Meta-analysis
-- Bayesian statistics
+- Replicability: evaluation, design, and assessment
+- Meta-analysis: meta-analysis of proportions, Bayesian meta-analysis
+- Bayesian statistics: Bayesian hypothesis testing
 
 (My PhD advisor is Dr. Christopher Thompson. Here's a link to his [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About).)
