@@ -18,13 +18,13 @@ Over the last decade, psychology has faced a replication crisis because efforts 
   
    Statistical power plays a key role in ensuring the reliability, precision, and replicability of effect size estimation. In psychology, the average power is distressingly low—estimated at 36% with only 8% of studies deemed 
    adequately powered. The impact of such issues on educational psychology has not received the attention it deserves. I am currently researching the credibility of meta-analyses published in five 
-   leading educational psychology journals between 2012 and 2022. Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper is [available here.](https://wnk4242.github.io/files/power paper.pdf). Reviewers' comments is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
+   leading educational psychology journals between 2012 and 2022. Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper is [available here.](https://wnk4242.github.io/files/power paper.pdf). AERA reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
 
 - Effect size, heterogeneity, and power of direct replications
 
    Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several fundamental 
    questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of replications. Gaining a better 
-   understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. A working paper is [available here.](https://wnk4242.github.io/files/heterogeneity paper.pdf) Reviewers' comments is [available here.](https://wnk4242.github.io/files/heterogeneity paper feedback.pdf)
+   understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. A working paper is [available here.](https://wnk4242.github.io/files/heterogeneity paper.pdf) AERA reviewers' feedback is [available here.](https://wnk4242.github.io/files/heterogeneity paper feedback.pdf)
 
 ## Meta-analysis of Proportions
 
