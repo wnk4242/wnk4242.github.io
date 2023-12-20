@@ -9,10 +9,10 @@ Over the last decade, psychology has faced a replication crisis because efforts 
 
 - The application of Bayesian meta-analysis in the evaluation of direct replications
 
-   Psychologists are currently faced with a pressing methodological challenge: developing a universally accepted, empirically validated framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian 
+   Psychologists are currently faced with a pressing methodological challenge: developing a  framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian 
    hypothesis testing within a meta-analytic framework and explore how well such an approach answers the following question: _“Do the pooled data from all replications support or refute the presence of the psychological 
    effect?”_ More importantly, my research expands our understanding by answering an essential follow-up question: _“How often are our conclusions about the replicability of original studies incorrect, based on their 
-   replications?”_
+   replications?”_ My long-term objective is to develop a empirically validated statistical framework for the assessment of replications of advanced and complex research designs. 
 
 - Credibility of research findings in educational psychology
   
