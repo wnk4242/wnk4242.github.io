@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a PhD Candidate in the Department of Educational Psychology at Texas A&M University. My PhD journey is driven by a curiosity about how we can enhance research replicability. My work is dedicated to improving the evaluation and planning of close replications, as well as assessing the credibility of psychological findings. As an aspiring early-career researcher, my ultimate goal is to pioneer methods for guiding the science to make our research more robust and reproducible.
+My PhD journey is driven by a curiosity about how we can enhance research replicability. My work is dedicated to improving the evaluation and planning of close replications, as well as assessing the credibility of psychological findings. As an aspiring early-career researcher, my ultimate goal is to pioneer methods for guiding the science to make our research more robust and reproducible.
 
 I also work on methodological issues in meta-analytic methods, with a particular focus on the meta-analysis of proportions. My comprehensive [methodological guide](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R) in this area has become a valuable resource in fields such as epidemiology, medicine, public health, and more. In my role as a meta-analyst, I am dedicated to developing, teaching, and advocating for the best practices in conducting systematic reviews and meta-analyses.
 
