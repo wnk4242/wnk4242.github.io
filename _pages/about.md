@@ -20,4 +20,4 @@ My expertise encompasses a broad spectrum of statistical and methodological tool
 - Meta-analysis: meta-analysis of proportions, Bayesian meta-analysis
 - Bayesian statistics: Bayesian hypothesis testing
 
-(My PhD advisor is Dr. Christopher Thompson. Here's a link to his [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About).)
+# (My PhD advisor is Dr. Christopher Thompson. Here's a link to his [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About).)
