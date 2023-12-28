@@ -21,3 +21,7 @@ My expertise encompasses a broad spectrum of statistical and methodological tool
 - Bayesian statistics: Bayesian hypothesis testing
 
 [comment]: <> (My PhD advisor is Dr. Christopher Thompson. Here's a link to his [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About).)
+
+{::comment}
+comment text
+{:/comment}
