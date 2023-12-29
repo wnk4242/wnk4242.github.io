@@ -34,7 +34,7 @@ An important application of meta-analytic methods is pooling single proportions 
 
    My comprehensive tutorial offers clear, structured methodological guidance to applied researchers on how to conduct meta-analyses of proportion in the R programming environment. It presents a step-by-step workflow and a critical review on common practices that could lead to biased effect estimates or misleading conclusions. Over the past five years, this methodological guide has garnered significant attention from the international research community, as evidenced by more than 52,000 reads on ResearchGate and 134 citations on Google Scholar:
 
-     **Wang, N.** (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63. [Available here](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R).
+    * **Wang, N.** (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63. [Available here](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R).
 
 - Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method
   
