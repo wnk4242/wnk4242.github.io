@@ -39,7 +39,8 @@ Advisor: Christopher G. Thompson
 - Gilson, C. B., Thompson, C. G., Ingles, K. E., Stein, K. E., **Wang, N.**, & Nygaard, M. A. (2021). The job coaching academy for transition educators: A preliminary evaluation. _Career Development and Transition for Exceptional Individuals_, 44(3), 148-160. [(available here)](https://journals.sagepub.com/doi/abs/10.1177/2165143420958607)
 
 ### Conference Presentations
-
+- **Wang, N.** (June, 2025) Examination of methods of Bayesian hypothesis testing for Direct replication studies in a meta-analytic framework. Proposal accepted by the Modern Modeling Methods Conference, Storrs, Connecticut.
+- **Wang, N.** (June, 2025) Underpowered studies and overrepresented significant findings in Educational Psychology. Proposal accepted by the Modern Modeling Methods Conference, Storrs, Connecticut.
 - **Wang, N.** (April, 2024) Effect size, heterogeneity, and power in meta-analyses of direct replications. Paper accepted by the annual meeting of the American Educational Research Association, Philadelphia, PA. [(available here)](https://wnk4242.github.io/files/heterogeneity paper.pdf)
 - **Wang, N.** (March, 2023) Underpowered studies and overrepresented significant findings in Educational Psychology. Roundtable Session at the annual meeting of the Texas Universities' Educational Statistics And Psychometrics, Austin, TX. [(available here)](https://wnk4242.github.io/files/power paper.pdf)
 - **Wang, N.**, & Liu, C. (2017) The effectiveness of sex offender registration and notification laws with juvenile sex offenders: A systematic review. Poster presented at the 2017 American Psychological Association Annual Convention, Washington, D.C.
