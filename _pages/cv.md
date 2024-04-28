@@ -109,5 +109,5 @@ Advisor: Christopher G. Thompson
 
 ### Statistical Language
 
-- Advanced: R, JAGS, OpenBUGS, Comprehensive Meta-Analysis
+- Advanced: R, JAGS, OpenBUGS, Comprehensive Meta-Analysis, Slurm (high performance computing)
 - Intermediate: [JMP](https://www.jmp.com/en_us/home.html), [JASP](https://jasp-stats.org/), Stata, SPSS, SAS, Mplus
