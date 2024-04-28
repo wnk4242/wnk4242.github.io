@@ -96,6 +96,7 @@ Advisor: Christopher G. Thompson
 - American Educational Research Association Annual Meeting (2024)
 - Behavior Research Methods
 - Methods Coordinating Group, [Campbell Collaboration](https://www.campbellcollaboration.org/)
+- CBE–Life Sciences Education
 
 ## Honors and Awards
 
