@@ -52,6 +52,9 @@ Advisor: Christopher G. Thompson
 - **Wang, N.** (in preparation). Underpowered studies and overrepresented significant findings in Educational Psychology.
 - Thompson, C. G., Baek, E., & **Wang, N.** (in preparation). Bayesian meta-analysis of single case studies: A tutorial.
 
+## Funded Grants
+**Wang, N.** (2024). The Examination of Statistical Power of Meta-Analyses in Top Educational Psychology Journals. School of Education and Human Development Graduate Research Award, $1,000.
+
 ## Teaching
 
 ### Teaching Assistant | Department of Educational Psychology, College of Education & Human Development, Texas A&M University, College Station, TX  
