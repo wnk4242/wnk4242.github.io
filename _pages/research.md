@@ -24,7 +24,7 @@ Over the last decade, psychology has faced a replication crisis because efforts 
 
    Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several fundamental 
    questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of replications. Gaining a better 
-   understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/heterogeneity paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/heterogeneity paper feedback.pdf)
+   understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/heterogeneity paper.pdf) AERA iPoster is [available here.](https://aera24-aera.ipostersessions.com/?s=8C-A3-3D-B1-3C-88-5E-CB-83-7D-3D-0C-C3-0A-CA-A7)
 
 ## Meta-analysis of Proportions
 
