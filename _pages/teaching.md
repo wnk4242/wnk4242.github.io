@@ -17,10 +17,10 @@ Students are expected to have a basic knowledge of inferential statistics, linea
 ### Course Learning Outcomes
 Students will conduct and present a synthesis of a set of outcomes, including a quantitative synthesis of effect sizes. Specifically, students will 
 - Form research questions
-Locate relevant studies (published and unpublished)
-Identify and code pertinent study information, including potential moderator variables
-Identify different types of study outcomes and select an effect-size metric to best represent those outcomes
-Conduct appropriate data analyses, including but not limited to, homogeneity tests, overall effect-size tests, moderator models, and publication bias
-Prepare a written report of the meta-analysis
+- Locate relevant studies (published and unpublished)
+- Identify and code pertinent study information, including potential moderator variables
+- Identify different types of study outcomes and select an effect-size metric to best represent those outcomes
+- Conduct appropriate data analyses, including but not limited to, homogeneity tests, overall effect-size tests, moderator models, and publication bias
+- Prepare a written report of the meta-analysis
 
 Students will identify controversies and explain contradictory views about the major aspects of meta-analysis.
