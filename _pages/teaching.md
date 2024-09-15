@@ -5,15 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Course Description
+\subsection{Course Description}
 
 This course provides an in-depth introduction to systematic review and meta-analysis, with a focus on both theoretical concepts and practical applications. Students will begin by exploring the foundations of systematic reviews, including how to frame research questions and select relevant studies. As the course progresses, they will learn about effect size calculations, model selection, publication bias, and sensitivity analysis. Advanced topics such as network meta-analysis, multivariate meta-analysis, and Bayesian meta-analysis will also be covered. Throughout the course, students will use R software for analysis and apply these concepts through hands-on assignments and group projects.
 
-### Course Prerequisites
+\subsection{Course Prerequisites}
 
 Students are expected to have a basic knowledge of inferential statistics, linear regression, and ANOVA. Advanced mathematical knowledge (e.g., Calculus and Linear Algebra are NOT required). If you would like to review materials of the aforementioned topics, please see me early in the semester.
 
-### Course Learning Outcomes
+\subsection{Course Learning Outcomes}
 
 Students will conduct and present a synthesis of a set of outcomes, including a quantitative synthesis of effect sizes. Specifically, students will
 Form research questions
@@ -25,7 +25,7 @@ Prepare a written report of the meta-analysis
 
 Students will identify controversies and explain contradictory views about the major aspects of meta-analysis.
 
-### Textbook and/or Resource Materials
+\subsection{Textbook and/or Resource Materials}
 
 Required Texts
 Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2021). Introduction to meta-analysis (2nd ed.). Wiley. ISBN 9781119558354
@@ -35,7 +35,7 @@ Cooper, H. (2017). Research synthesis and meta-analysis (5th ed.). Sage. ISBN 97
 Optional Texts
 Cooper, H. M., Hedges, L. V., & Valentine, J. (2019). The handbook of research synthesis and meta-analysis (3rd ed.). Russell Sage Foundation. ISBN 9780871540058
 
-### Grading Policy
+\subsection{Grading Policy}
 
 Assignment				Overall Grade Weight
 								
@@ -59,7 +59,7 @@ Project: This assignment will be a written report of the meta-analysis that you 
 
 Project Presentation: Each student (or group) will complete a brief presentation related to their project. More details will be provided later in the semester.
 
-### Additional Course Information Items
+\subsection{Additional Course Information Items}
 
 Computer Software
 This course requires two computer programs:
