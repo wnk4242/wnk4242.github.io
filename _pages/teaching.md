@@ -15,8 +15,8 @@ This course provides an in-depth introduction to systematic review and meta-anal
 Students are expected to have a basic knowledge of inferential statistics, linear regression, and ANOVA. Advanced mathematical knowledge (e.g., Calculus and Linear Algebra are NOT required). If you would like to review materials of the aforementioned topics, please see me early in the semester.
 
 ### Course Learning Outcomes
-### Students will conduct and present a synthesis of a set of outcomes, including a quantitative synthesis of effect sizes. Specifically, students will 
-### Form research questions
+Students will conduct and present a synthesis of a set of outcomes, including a quantitative synthesis of effect sizes. Specifically, students will 
+- Form research questions
 Locate relevant studies (published and unpublished)
 Identify and code pertinent study information, including potential moderator variables
 Identify different types of study outcomes and select an effect-size metric to best represent those outcomes
