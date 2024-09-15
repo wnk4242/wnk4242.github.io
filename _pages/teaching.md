@@ -4,7 +4,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-
+https://wnk4242.github.io/files/syllabus.pdf
 
 ### Course Description
 
