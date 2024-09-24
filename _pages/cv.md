@@ -15,7 +15,7 @@ redirect_from:
 **Address:** College Station, TX
 
 **E-mail:** [wangnaike@tamu.edu](mailto:wangnaike@tamu.edu)  
-[Download my CV here.](https://wnk4242.github.io/files/CV_092024.pdf)
+[Download my CV here.](https://wnk4242.github.io/files/CV_NW.pdf)
 
 ## Education
 
