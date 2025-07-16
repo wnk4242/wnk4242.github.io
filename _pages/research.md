@@ -27,7 +27,7 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several fundamental 
    questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of replications. Gaining a better 
    understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. An AERA iPoster is [available here.](https://aera24-aera.ipostersessions.com/?s=8C-A3-3D-B1-3C-88-5E-CB-83-7D-3D-0C-C3-0A-CA-A7)
-![Shiny App](/images/ESI2.png)
+![Shiny App](/images/complex_relation.png)
 
 ## The Use of Generative AI in Education
 My AI-related research examines the use of large language models in second-language learning, work I presented at the International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. Preliminary mixed-effects modeling analyses suggest that ChatGPT frequently struggles to generate socially suitable responses in scenarios involving power dynamics. 
