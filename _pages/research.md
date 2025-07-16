@@ -22,7 +22,9 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    adequately powered. The impact of such issues on educational psychology has not received the attention it deserves. I am currently researching the credibility of meta-analyses published in five 
    leading educational psychology journals between 2012 and 2022. The median power of the studies included in SMD-based meta-analyses was estimated to be 31%, indicating that most of the experiment-based studies were inadequately powered. 
 ![Shiny App](/images/poweranalysis.png)
-Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
+
+   Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/power paper.pdf) Peer-      reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
+
 - Effect size, heterogeneity, and power of direct replications
 
    Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several fundamental 
