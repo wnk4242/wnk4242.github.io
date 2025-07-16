@@ -12,9 +12,13 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    Psychologists are currently faced with a pressing methodological challenge: developing a  framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian 
    hypothesis testing within a meta-analytic framework and explore how well such an approach answers the following question: _“Do the pooled data from all replications support or refute the presence of the psychological 
    effect?”_ More importantly, my research expands our understanding by answering an essential follow-up question: _“How often are our conclusions about the replicability of original studies incorrect, based on their 
-   replications?”_ My long-term objective is to develop a empirically validated statistical framework for the assessment of replications of advanced and complex research designs. 
+   replications?”_
+
+  Deploying R-based simulation code on high-performance computing clusters, I created research environments with different levels of p-hacking, publication bias, and statistical power:
 
 ![Shiny App](/images/publication_process.png)
+
+   The study provides strong evidence that Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication            outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. 
 
 - Credibility of research findings in educational psychology
   
