@@ -14,7 +14,7 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    effect?”_ More importantly, my research expands our understanding by answering an essential follow-up question: _“How often are our conclusions about the replicability of original studies incorrect, based on their 
    replications?”_ My long-term objective is to develop a empirically validated statistical framework for the assessment of replications of advanced and complex research designs. 
 
-![Shiny App](/images/beta-regression-model.png)
+![Shiny App](/images/publication_process.png)
 
 - Credibility of research findings in educational psychology
   
