@@ -28,6 +28,10 @@ Over the last decade, psychology has faced a replication crisis because efforts 
    questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of replications. Gaining a better 
    understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. An AERA iPoster is [available here.](https://aera24-aera.ipostersessions.com/?s=8C-A3-3D-B1-3C-88-5E-CB-83-7D-3D-0C-C3-0A-CA-A7)
 
+## The Use of Generative AI in Education
+My AI-related research examines the use of large language models in second-language learning, work I presented at the International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. Preliminary mixed-effects modeling analyses suggest that ChatGPT frequently struggles to generate socially suitable responses in scenarios involving power dynamics. 
+![Shiny App](/images/CvsH.png)
+
 ## Meta-analysis of Proportions
 
 An important application of meta-analytic methods is pooling single proportions to estimate the overall prevalence of a specific condition. In 2017 alone, 152 meta-analyses of proportions were published across various scientific disciplines, such as medicine, public health, epidemiology, etc. These meta-analyses not only guide future research but also help policymakers make informed decisions. 
