@@ -16,7 +16,7 @@ I also work on methodological issues in meta-analytic methods, with a particular
 My expertise encompasses a broad spectrum of statistical and methodological tools, including Monte Carlo simulations, Bayesian analysis, and advanced meta-analytic methods. With nearly a decade of experience in statistical programming using R, I am passionate about educating the public in R programming for the greater good. You can view my video tutorial to see a glimpse of my teaching approach in R, [available here](https://www.youtube.com/watch?v=2wbXTFvaRnM&t=764s).
 
 # Interests 
-- Replicability: design and assessment of replications
+- Replicability: design and assessment of replications ([working project](https://github.com/wnk4242/MetaBayes_Evaluation/tree/main))
 - Meta-analysis: meta-analysis of proportions, Bayesian meta-analysis
 - Generative AI: use of ChatGPT in second language learning
 
