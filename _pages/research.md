@@ -30,6 +30,7 @@ the study is available in my GitHub repository [here](https://github.com/wnk4242
   
 Statistical power plays a key role in ensuring the reliability, precision, and replicability of effect size estimation. In psychology, the average power is distressingly low—estimated at 36% with only 8% of studies deemed adequately powered. Meta-analyses synthesizing underpowered studies risk high false positive rates and inflated effect sizes. This study examines the credibility of meta-analyses published in five leading educational psychology journals by evaluating their median retrospective power. The median retrospective power of the studies included in SMD-based meta-analyses was estimated to be 31%, indicating that most of the experiment-based studies were inadequately powered.
 The following table shows the median retrospective power of a few selected meta-analyses included in the study. The investigated effects with a MRP larger than .5 are more likely to be true (i.e., non-spurious).
+
 | Educational Psychology Effect                                                                 | Median Retrospective Power |
 |-----------------------------------------------------------------------------------------------|-----------------------------|
 | Activity-related Achievement Emotions                                                         | 0.94                        |
