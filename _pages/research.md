@@ -103,8 +103,6 @@ Search for multiple keywords in titles and abstracts and highlight them simultan
 - **Post-screening recap** 
 After each session, CoviPanel provides a clear summary of your screening activity—including time spent, decision breakdown, and interrater reliability with AI.
 
-Plus much more: customizable YES/NO/MAYBE buttons, clear CSV-format report, and other thoughtful details designed to make screening more focused, efficient, and smooth.
-
 {::comment}
 **4. Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method**
   
