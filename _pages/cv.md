@@ -20,7 +20,7 @@ redirect_from:
 ## Education
 
 **Texas A&M University**, College Station, TX  
-- **Doctor of Philosophy**, Research, Measurement and Statistics _Expected 2024_  
+- **Doctor of Philosophy**, Research, Measurement and Statistics _Expected 2025_  
 Dissertation: Examination of Methods of Bayesian Hypothesis Testing for the Evaluation of Direct Replication Studies in a Meta-analytic Framework  
 Advisor: Christopher G. Thompson
 
