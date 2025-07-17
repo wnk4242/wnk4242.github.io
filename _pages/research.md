@@ -62,7 +62,7 @@ My comprehensive tutorial offers clear, structured methodological guidance to ap
 
 * **Wang, N.** (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63. [Available here](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R).
 
-I created a walkthrough video for this tutorial on YouTube, which has achieved 19k views, a 99% approval rating, and many positive comments.
+I created a [walkthrough video](https://youtu.be/2wbXTFvaRnM?si=oP4TMqDj1bLXgEif) for this tutorial on YouTube, which has achieved 19k views, a 99% approval rating, and many positive comments.
 ![Shiny App](/images/metaprop.png)
 
 - Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method
