@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QD-iEXoAAAAJ&hl=en&inst=14379318592444324147"
-  email            : "wangnaike@tamu.edu"
+  email            : #"wangnaike@tamu.edu"
   researchgate     : "https://www.researchgate.net/profile/Naike-Wang"
   uri              :
   bitbucket        :
