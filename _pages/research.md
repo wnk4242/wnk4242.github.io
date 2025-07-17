@@ -23,6 +23,7 @@ Deploying R-based simulation code on high-performance computing clusters, I crea
 ![Shiny App](/images/publication_process.png)
 
 The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. An overview of the study is available in my GitHub repository [here](https://github.com/wnk4242/MetaBayes_Evaluation).
+<hr style="border-top: 1px dotted #ddd;">
 
 **Credibility of research findings in educational psychology**
   
@@ -44,6 +45,7 @@ The following table shows the median retrospective power of a few selected meta-
 
 Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. Based on MRP, we can build a database to provide researchers with potential replication topics in psychology and their probabilities of being successfully replicated.A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf). I presented this work in a poster session at the Modern Modeling Methods conference (view the [poster](https://wnk4242.github.io/files
 /M3-2.pdf).
+<hr style="border-top: 1px dotted #ddd;">
 
 **Effect size, heterogeneity, and power of direct replications**
 
@@ -81,6 +83,7 @@ My comprehensive tutorial offers clear, structured methodological guidance to ap
 
 I created a [walkthrough video](https://youtu.be/2wbXTFvaRnM?si=oP4TMqDj1bLXgEif) for this tutorial on YouTube, which has achieved 19k views, a 99% approval rating, and many positive comments.
 ![Shiny App](/images/metaprop.png)
+<hr style="border-top: 1px dotted #ddd;">
 
 **CoviPanel: A Simple, Gamified, AI-Assisted Tool for Conducting Systematic Reviews in Covidence**
 
