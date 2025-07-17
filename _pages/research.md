@@ -42,7 +42,9 @@ Over the last decade, psychology has faced a replication crisis because efforts 
 
 ## The Use of Generative AI in Education
 My AI-related research examines the use of large language models in second-language learning, work I presented at the International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. 
-![Shiny App](/images/CvsH.png)
+
+![Shiny App](/images/cvh.png)
+
 We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. The most interesting finding of this study is that in conversations involving power dynamics—like you talking to your boss—ChatGPT often struggles to find socially appropriate responses and tends to become overly polite.
 
 
