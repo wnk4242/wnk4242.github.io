@@ -104,12 +104,12 @@ Search for multiple keywords in titles and abstracts and highlight them simultan
 After each session, CoviPanel provides a clear summary of your screening activity—including time spent, decision breakdown, and interrater reliability with AI.
 
 Plus much more: customizable YES/NO/MAYBE buttons, clear CSV-format report, and other thoughtful details designed to make screening more focused, efficient, and smooth.
-<hr style="border-top: 1px dotted #999;">
 
+{::comment}
 **4. Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method**
   
 Recent studies have criticized the most popular proportional data transformation method for meta-analysis, the Freeman-Tukey double arcsine transformation, due to its potential for producing misleading results in extreme scenarios. Central to this discussion is whether GLMMs offer a more robust alternative for handling cases of rare events or small sample sizes. In recognition of the importance of this ongoing discussion, my future research will involve an extensive simulation study comparing the GLMMs and the double arcsine transformation in meta-analyses of proportions, paying special attention to scenarios where extreme event rates or diverse sample sizes across primary studies occur. This work aims to provide a much-needed methodological guide for applied researchers and potentially elevate the quality and reliability of future meta-analyses in various scientific fields. 
-
+{::comment}
 
 
 
