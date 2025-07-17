@@ -28,10 +28,8 @@ the study is available in my GitHub repository [here](https://github.com/wnk4242
 
 - **Credibility of research findings in educational psychology**
   
-Statistical power plays a key role in ensuring the reliability, precision, and replicability of effect size estimation. In psychology, the average power is distressingly low—estimated at 36% with only 8% of      studies deemed adequately powered. The impact of such issues on educational psychology has not received the attention it deserves. I am currently researching the credibility of meta-analyses published in five 
-leading educational psychology journals between 2012 and 2022. The median power of the studies included in SMD-based meta-analyses was estimated to be 31%, indicating that most of the experiment-based studies
-were inadequately powered.
-  
+Statistical power plays a key role in ensuring the reliability, precision, and replicability of effect size estimation. In psychology, the average power is distressingly low—estimated at 36% with only 8% of studies deemed adequately powered. Meta-analyses synthesizing underpowered studies risk high false positive rates and inflated effect sizes. This study examines the credibility of meta-analyses published in five leading educational psychology journals by evaluating their median retrospective power. The median retrospective power of the studies included in SMD-based meta-analyses was estimated to be 31%, indicating that most of the experiment-based studies were inadequately powered.
+The following table shows the median retrospective power of a few selected meta-analyses included in the study. The investigated effects with a MRP larger than .5 are more likely to be true (i.e., non-spurious).
 | Educational Psychology Effect                                                                 | Median Retrospective Power |
 |-----------------------------------------------------------------------------------------------|-----------------------------|
 | Activity-related Achievement Emotions                                                         | 0.94                        |
@@ -45,7 +43,7 @@ were inadequately powered.
 | Effectiveness of Multimedia Pedagogical Agents                                                | 0.10                        |
 | …                                                                                             | …                           |
 
-Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper (AERA proposal) is [available here.]           
+Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. Based on MRP, we can build a database to provide researchers with potential replication topics in psychology and their probabilities of being successfully replicated.A working paper (AERA proposal) is [available here.]           
 (https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
 
 - **Effect size, heterogeneity, and power of direct replications**
