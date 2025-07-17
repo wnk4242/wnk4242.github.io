@@ -48,12 +48,13 @@ replications. Gaining a better understanding of heterogeneity is key to improvin
 
 
 ## Generative AI for Education
-My AI-related research examines the use of large language models in second-language learning, work I presented at the International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. 
+My AI-related research examines the use of large language models in second-language learning, work I presented at the 22nd International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. 
 
 ![Shiny App](/images/cvh.png)
 
-We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. The most interesting finding of this study is that in conversations involving power dynamics—like you talking to your boss—ChatGPT often struggles to find socially appropriate responses and tends to become overly polite.
+We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. The most interesting finding of this study is that in conversations involving power dynamics (e.g., when you talk to your boss), ChatGPT often struggles to find socially appropriate responses, where sensitivity to social appropriateness is essential. These findings can inform the design of AI partners that not only support learning but also foster respectful, effective communication in collaborative small-group settings.
 
+For a full overview of this study, you are welcome to watch this 5-minute mini presentation: [Watch the video](https://drive.google.com/file/d/1F6_0KOGe7-sB9vEN5HcJZHvz-9sK_rPr/preview)
 
 
 
