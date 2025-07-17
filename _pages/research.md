@@ -32,7 +32,18 @@ Statistical power plays a key role in ensuring the reliability, precision, and r
 leading educational psychology journals between 2012 and 2022. The median power of the studies included in SMD-based meta-analyses was estimated to be 31%, indicating that most of the experiment-based studies
 were inadequately powered.
   
-![Shiny App](/images/MRP.png)
+| Educational Psychology Effect                                                                 | Median Retrospective Power |
+|-----------------------------------------------------------------------------------------------|-----------------------------|
+| Activity-related Achievement Emotions                                                         | 0.94                        |
+| Multimedia Effect In Problem Solving                                                          | 0.74                        |
+| Effects of Gamification on Cognitive, Motivational, and Behavioral Learning Outcomes          | 0.70                        |
+| Peer Interaction in Facilitating Learning                                                     | 0.51                        |
+| Social and Emotional Learning Interventions on Teachers' Burnout Symptoms                     | 0.42                        |
+| Reading Interventions for Students with Reading and Behavioral Difficulties                   | 0.36                        |
+| Effects of Self-Regulated Learning Training Programs                                           | 0.32                        |
+| Impact of Motivational Reading Instruction on Reading Achievement and Motivation of Students  | 0.23                        |
+| Effectiveness of Multimedia Pedagogical Agents                                                | 0.10                        |
+| …                                                                                             | …                           |
 
 Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper (AERA proposal) is [available here.]           
 (https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
