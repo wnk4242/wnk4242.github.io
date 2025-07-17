@@ -52,8 +52,8 @@ Completion of this work will raise awareness within the academic community about
 
 
 
-## [Meta-analysis]
 
+<h2 style="text-align: center;">Meta-analysis</h2>
 An important application of meta-analytic methods is pooling single proportions to estimate the overall prevalence of a specific condition. In 2017 alone, 152 meta-analyses of proportions were published across various scientific disciplines, such as medicine, public health, epidemiology, etc. These meta-analyses not only guide future research but also help policymakers make informed decisions. 
 
 **1. Methodological guide on conducting meta-analyses of proportions**
