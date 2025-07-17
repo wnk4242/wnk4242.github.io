@@ -15,7 +15,7 @@ Efforts to replicate past psychological study findings often fail to yield consi
 - **The application of Bayesian meta-analysis in the evaluation of direct replications**
 
 Psychologists are currently faced with a pressing methodological challenge: developing a  framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian hypothesis testing
-within a meta-analytic framework and explore how well such an approach answers the following question: _“Do the pooled data from replications support or refute the presence of the psychological 
+within a meta-analytic framework and explore how well such an approach answers the following question: “Do the pooled data from replications support or refute the presence of the psychological 
 effect?”
 
 Deploying R-based simulation code on high-performance computing clusters, I created research environments with different levels of p-hacking, publication bias, and statistical power:
