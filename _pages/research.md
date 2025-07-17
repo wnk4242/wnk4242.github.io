@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Jump to:
 - [Research Replicability](#research-replicability)
-- [Generative AI for Education](#generative-ai-for-education)
 - [Meta-analysis](#meta-analysis)
+- [Generative AI for Education](#generative-ai-for-education)
 
 ## [Research Replicability]
 Efforts to replicate past psychological study findings often fail to yield consistent results. Psychologists have conducted several large-scale multi-lab replication projects (such as the Many Labs series) to reassess the credibility of earlier findings. I am currently pursuing three lines of research to enhance our understanding of research replicability:
@@ -48,17 +48,6 @@ Completion of this work will raise awareness within the academic community about
 
 
 
-
-## [Generative AI for Education]
-My AI-related research examines the use of large language models in second-language learning, work I presented at the 22nd International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. I summarized this study in a 5-minute mini presentation, which you can [watch here](https://drive.google.com/file/d/1F6_0KOGe7-sB9vEN5HcJZHvz-9sK_rPr/preview)
-
-![Shiny App](/images/cvh.png)
-
-We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. 
-
-The most interesting finding of this study is that in conversations involving power dynamics (e.g., when you talk to your boss), ChatGPT often struggles to find socially appropriate responses, where sensitivity to social appropriateness is essential. These findings can inform the design of AI partners that not only support learning but also foster respectful, effective communication in collaborative small-group settings.
-
-I developed a Python-based pipeline for this project, which automated data collection across multiple ChatGPT models, reducing data processing time by 90%. The code is [available here](https://github.com/wnk4242/GPTdataCollector).
 
 
 ## [Meta-analysis]
@@ -120,3 +109,20 @@ Plus much more: customizable YES/NO/MAYBE buttons, clear CSV-format report, and 
 **4. Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method**
   
 Recent studies have criticized the most popular proportional data transformation method for meta-analysis, the Freeman-Tukey double arcsine transformation, due to its potential for producing misleading results in extreme scenarios. Central to this discussion is whether GLMMs offer a more robust alternative for handling cases of rare events or small sample sizes. In recognition of the importance of this ongoing discussion, my future research will involve an extensive simulation study comparing the GLMMs and the double arcsine transformation in meta-analyses of proportions, paying special attention to scenarios where extreme event rates or diverse sample sizes across primary studies occur. This work aims to provide a much-needed methodological guide for applied researchers and potentially elevate the quality and reliability of future meta-analyses in various scientific fields. 
+
+
+
+
+
+
+
+## [Generative AI for Education]
+My AI-related research examines the use of large language models in second-language learning, work I presented at the 22nd International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. I summarized this study in a 5-minute mini presentation, which you can [watch here](https://drive.google.com/file/d/1F6_0KOGe7-sB9vEN5HcJZHvz-9sK_rPr/preview)
+
+![Shiny App](/images/cvh.png)
+
+We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. 
+
+The most interesting finding of this study is that in conversations involving power dynamics (e.g., when you talk to your boss), ChatGPT often struggles to find socially appropriate responses, where sensitivity to social appropriateness is essential. These findings can inform the design of AI partners that not only support learning but also foster respectful, effective communication in collaborative small-group settings.
+
+I developed a Python-based pipeline for this project, which automated data collection across multiple ChatGPT models, reducing data processing time by 90%. The code is [available here](https://github.com/wnk4242/GPTdataCollector).
