@@ -22,9 +22,7 @@ Deploying R-based simulation code on high-performance computing clusters, I crea
 
 ![Shiny App](/images/publication_process.png)
 
-The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands 
-the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. An overview of    
-the study is available in my GitHub repository [here](https://github.com/wnk4242/MetaBayes_Evaluation).
+The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. An overview of the study is available in my GitHub repository [here](https://github.com/wnk4242/MetaBayes_Evaluation).
 
 - **Credibility of research findings in educational psychology**
   
