@@ -9,7 +9,9 @@ author_profile: true
 - [Meta-analysis](#meta-analysis)
 - [Generative AI for Education](#generative-ai-for-education)
 
-## [Research Replicability]
+
+
+<h2 style="text-align: center;">Research Replicability</h2>
 Efforts to replicate past psychological study findings often fail to yield consistent results. Psychologists have conducted several large-scale multi-lab replication projects (such as the Many Labs series) to reassess the credibility of earlier findings. I am currently pursuing three lines of research to enhance our understanding of research replicability:
 
 **1. The application of Bayesian meta-analysis in the evaluation of direct replications**
