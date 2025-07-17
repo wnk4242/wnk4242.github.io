@@ -45,15 +45,7 @@ The following table shows the median retrospective power of a few selected meta-
 
 Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. Based on MRP, we can build a database to provide researchers with potential replication topics in psychology and their probabilities of being successfully replicated.A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf). I presented this work in a poster session at the Modern Modeling Methods conference (view the [poster](https://wnk4242.github.io/files
 /M3-2.pdf).
-<hr style="border-top: 1px dotted #999;">
 
-**3. Effect size, heterogeneity, and power of direct replications**
-
-Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several
-fundamental questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of
-replications. Gaining a better understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. An AERA iPoster is [available here.](https://aera24-aera.ipostersessions.com/?s=8C-A3-3D-B1-3C-88-5E-CB-83-7D-3D-0C-C3-0A-CA-A7)
-  
-![Shiny App](/images/complex_relation.png)
 
 
 
@@ -65,8 +57,6 @@ My AI-related research examines the use of large language models in second-langu
 We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. 
 
 The most interesting finding of this study is that in conversations involving power dynamics (e.g., when you talk to your boss), ChatGPT often struggles to find socially appropriate responses, where sensitivity to social appropriateness is essential. These findings can inform the design of AI partners that not only support learning but also foster respectful, effective communication in collaborative small-group settings.
-
-
 
 I developed a Python-based pipeline for this project, which automated data collection across multiple ChatGPT models, reducing data processing time by 90%. The code is [available here](https://github.com/wnk4242/GPTdataCollector).
 
@@ -86,7 +76,16 @@ This tutorial has garnered significant attention from the international research
 * Wang, N. (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63. [Available here](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R).
 <hr style="border-top: 1px dotted #999;">
 
-**2. CoviPanel: A Simple, Gamified, AI-Assisted Tool for Conducting Systematic Reviews in Covidence**
+**2. Effect size, heterogeneity, and power of direct replications**
+
+Effect-size variability (also known as heterogeneity), is a key methodological factor that is frequently neglected in planning the sample sizes for replication studies. My research investigates several
+fundamental questions regarding heterogeneity in replication studies and examines how the potentially linear relationship between effect sizes and heterogeneity may impact the statistical power of
+replications. Gaining a better understanding of heterogeneity is key to improving sample size planning for future multi-lab replication projects. An AERA iPoster is [available here.](https://aera24-aera.ipostersessions.com/?s=8C-A3-3D-B1-3C-88-5E-CB-83-7D-3D-0C-C3-0A-CA-A7)
+  
+![Shiny App](/images/complex_relation.png)
+<hr style="border-top: 1px dotted #999;">
+
+**3. CoviPanel: A Simple, Gamified, AI-Assisted Tool for Conducting Systematic Reviews in Covidence**
 
 CoviPanel is a lightweight systematic review tool designed for researchers who need to screen large volumes of studies in [Covidence](https://www.covidence.org/). CovPanel reimagines the abstracts screening process, turinging it into a faster, more focused, and even enjoyable task. 
 
@@ -118,6 +117,6 @@ After each session, CoviPanel provides a clear summary of your screening activit
 Plus much more: customizable YES/NO/MAYBE buttons, clear CSV-format report, and other thoughtful details designed to make screening more focused, efficient, and smooth.
 <hr style="border-top: 1px dotted #999;">
 
-**3. Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method**
+**4. Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method**
   
 Recent studies have criticized the most popular proportional data transformation method for meta-analysis, the Freeman-Tukey double arcsine transformation, due to its potential for producing misleading results in extreme scenarios. Central to this discussion is whether GLMMs offer a more robust alternative for handling cases of rare events or small sample sizes. In recognition of the importance of this ongoing discussion, my future research will involve an extensive simulation study comparing the GLMMs and the double arcsine transformation in meta-analyses of proportions, paying special attention to scenarios where extreme event rates or diverse sample sizes across primary studies occur. This work aims to provide a much-needed methodological guide for applied researchers and potentially elevate the quality and reliability of future meta-analyses in various scientific fields. 
