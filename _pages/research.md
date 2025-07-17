@@ -4,10 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Jump to Section
-
+## Jump to:
 - [Research Replicability](#research-replicability)
-- [The Use of Generative AI in Education](#the-use-of-generative-ai-in-education)
+- [Generative AI for Education](#generative-ai-for-education)
 - [Meta-analysis](#meta-analysis)
 
 ## Research Replicability
@@ -48,7 +47,7 @@ replications. Gaining a better understanding of heterogeneity is key to improvin
 
 
 
-## The Use of Generative AI in Education
+## Generative AI for Education
 My AI-related research examines the use of large language models in second-language learning, work I presented at the International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. 
 
 ![Shiny App](/images/cvh.png)
