@@ -96,6 +96,7 @@ I built CoviPanel to make the systematic review process easier for all of us. Co
   <img src="/images/water5s.gif" width="200" style="margin-left: 20px;" />
   <img src="/images/snoopy5s.gif" width="200" style="margin-left: 20px;" />
 </p>
+<hr style="border-top: 1px dotted #ddd;">
 
 **Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method**
   
