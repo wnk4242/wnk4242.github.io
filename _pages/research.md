@@ -100,19 +100,19 @@ I built CoviPanel to make the systematic review process easier for all of us. Co
 
 **Key Features:**
 
-- 𝐅𝐥𝐞𝐱𝐢𝐛𝐥𝐞 𝐀𝐈-𝐚𝐬𝐬𝐢𝐬𝐭𝐞𝐝 𝐬𝐜𝐫𝐞𝐞𝐧𝐢𝐧𝐠
+- **Flexible AI-assisted screening**
 CoviPanel integrates with #ChatGPT to offer a second opinion on each study by analyzing the title and abstract and providing a suggested decision with a concise explanation.
 
-- 𝐆𝐚𝐦𝐢𝐟𝐢𝐞𝐝 𝐫𝐞𝐰𝐚𝐫𝐝𝐬 𝐭𝐨 𝐬𝐭𝐚𝐲 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐞𝐝
+- **Gamified rewards to stay motivated** 
 As you screen studies, you'll level up through "academic ranks"—from a clueless Research Assistant 🤦‍♂️‍ to a distinguished Professor 🧙‍—via a video game–style reward system that keeps you motivated through long sessions.
 
-- 𝐄𝐚𝐬𝐲, 𝐬𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐧𝐞𝐝 𝐧𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧
+- **Easy, streamlined navigation** 
 CoviPanel guides you through your assigned studies in a controlled, focused sequence—no more scrolling through pages to find them!
 
-- 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐤𝐞𝐲𝐰𝐨𝐫𝐝 𝐡𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐢𝐧𝐠
+- **Multiple keyword highlighting** 
 Search for multiple keywords in titles and abstracts and highlight them simultaneously—helping you quickly spot relevant terms and rule out irrelevant studies with ease.
 
-- 𝐏𝐨𝐬𝐭-𝐬𝐜𝐫𝐞𝐞𝐧𝐢𝐧𝐠 𝐫𝐞𝐜𝐚𝐩
+- **Post-screening recap** 
 After each session, CoviPanel provides a clear summary of your screening activity—including time spent, decision breakdown, and interrater reliability with AI.
 
 Plus much more: customizable YES/NO/MAYBE buttons, clear CSV-format report, and other thoughtful details designed to make screening more focused, efficient, and smooth.
