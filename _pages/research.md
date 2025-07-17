@@ -4,6 +4,12 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Jump to Section
+
+- [Research Replicability](#research-replicability)
+- [The Use of Generative AI in Education](#the-use-of-generative-ai-in-education)
+- [Meta-analysis](#meta-analysis)
+
 ## Research Replicability
 Efforts to replicate past psychological study findings often fail to yield consistent results. Psychologists have conducted several large-scale multi-lab replication projects (such as the Many Labs series) to reassess the credibility of earlier findings. I am currently pursuing three lines of research to enhance our understanding of research replicability:
 
