@@ -37,7 +37,7 @@ The following table shows the median retrospective power of a few selected meta-
 | Peer Interaction in Facilitating Learning                                                     | 0.51                        |
 | Social and Emotional Learning Interventions on Teachers' Burnout Symptoms                     | 0.42                        |
 | Reading Interventions for Students with Reading and Behavioral Difficulties                   | 0.36                        |
-| Effects of Self-Regulated Learning Training Programs                                           | 0.32                        |
+| Effects of Self-Regulated Learning Training Programs                                          | 0.32                        |
 | Impact of Motivational Reading Instruction on Reading Achievement and Motivation of Students  | 0.23                        |
 | Effectiveness of Multimedia Pedagogical Agents                                                | 0.10                        |
 | …                                                                                             | …                           |
@@ -60,10 +60,13 @@ My AI-related research examines the use of large language models in second-langu
 
 ![Shiny App](/images/cvh.png)
 
-We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. The most interesting finding of this study is that in conversations involving power dynamics (e.g., when you talk to your boss), ChatGPT often struggles to find socially appropriate responses, where sensitivity to social appropriateness is essential. These findings can inform the design of AI partners that not only support learning but also foster respectful, effective communication in collaborative small-group settings.
+We created 32 short vignettes, each one has an everyday social scenario. We asked ChatGPT to generate responses that were either appropriate or inappropriate in those scenarios. These became our experimental materials. Then we asked both ChatGPT and human raters to grade these responses on a scale from 1 to 5 in terms of their conversational appropriateness. 
+
+The most interesting finding of this study is that in conversations involving power dynamics (e.g., when you talk to your boss), ChatGPT often struggles to find socially appropriate responses, where sensitivity to social appropriateness is essential. These findings can inform the design of AI partners that not only support learning but also foster respectful, effective communication in collaborative small-group settings.
 
 For a full overview of this study, you are welcome to watch this 5-minute mini presentation: [Watch the video](https://drive.google.com/file/d/1F6_0KOGe7-sB9vEN5HcJZHvz-9sK_rPr/preview)
 
+I developed a Python-based pipeline for this project, which automated data collection across multiple ChatGPT models, reducing data processing time by 90%. The code is [available here](https://github.com/wnk4242/GPTdataCollector).
 
 
 ## Meta-analysis
