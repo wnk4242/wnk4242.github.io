@@ -73,14 +73,14 @@ An important application of meta-analytic methods is pooling single proportions 
 
 My comprehensive tutorial offers clear, structured methodological guidance to applied researchers on how to conduct meta-analyses of proportion in the R programming environment. It presents a step-by-step workflow and a critical review on common practices that could lead to biased effect estimates or misleading conclusions. Over the past five years, this tutorial has garnered significant attention from the international research community, as evidenced by more than 60,000 reads on ResearchGate and 230+ citations on Google Scholar:
 
-* **Wang, N.** (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63. [Available here](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R).
+* Wang, N. (2023). Conducting meta-analyses of proportions in R. _Journal of Behavioral Data Science_, 3(2), 1-63. [Available here](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R).
 
 I created a [walkthrough video](https://youtu.be/2wbXTFvaRnM?si=oP4TMqDj1bLXgEif) for this tutorial on YouTube, which has achieved 19k views, a 99% approval rating, and many positive comments.
 ![Shiny App](/images/metaprop.png)
 
 - **CoviPanel: A Simple, Gamified, AI-Assisted Tool for Conducting Systematic Reviews in Covidence**
 
-**CoviPanel** is a lightweight systematic review tool designed for researchers who need to screen large volumes of studies in Covidence. CovPanel reimagines the abstracts screening process, turinging it into a faster, more focused, and even enjoyable task. 
+CoviPanel is a lightweight systematic review tool designed for researchers who need to screen large volumes of studies in Covidence. CovPanel reimagines the abstracts screening process, turinging it into a faster, more focused, and even enjoyable task. 
 
 I built CoviPanel to make the systematic review process easier for all of us. CoviPanel is free, open source, and ready for you to explore. Visit my [GitHub repo](https://github.com/wnk4242/CoviPanel), where I've put together clear, short, intuitive tutorials to help you get started with CoviPanel.
 
