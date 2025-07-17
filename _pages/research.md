@@ -45,7 +45,7 @@ The following table shows the median retrospective power of a few selected meta-
 
 Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. Based on MRP, we can build a database to provide researchers with potential replication topics in psychology and their probabilities of being successfully replicated.A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf). I presented this work in a poster session at the Modern Modeling Methods conference (view the [poster](https://wnk4242.github.io/files
 /M3-2.pdf).
-<hr style="border-top: 1px dotted #ddd;">
+<hr style="border-top: 1px dotted #999;">
 
 **3. Effect size, heterogeneity, and power of direct replications**
 
@@ -83,7 +83,7 @@ My comprehensive tutorial offers clear, structured methodological guidance to ap
 
 I created a [walkthrough video](https://youtu.be/2wbXTFvaRnM?si=oP4TMqDj1bLXgEif) for this tutorial on YouTube, which has achieved 19k views, a 99% approval rating, and many positive comments.
 ![Shiny App](/images/metaprop.png)
-<hr style="border-top: 1px dotted #ddd;">
+<hr style="border-top: 1px dotted #999;">
 
 **2. CoviPanel: A Simple, Gamified, AI-Assisted Tool for Conducting Systematic Reviews in Covidence**
 
@@ -96,7 +96,7 @@ I built CoviPanel to make the systematic review process easier for all of us. Co
   <img src="/images/water5s.gif" width="200" style="margin-left: 20px;" />
   <img src="/images/snoopy5s.gif" width="200" style="margin-left: 20px;" />
 </p>
-<hr style="border-top: 1px dotted #ddd;">
+<hr style="border-top: 1px dotted #999;">
 
 **3. Generalized linear mixed models (GLMMs) vs. Freeman-Tukey double arcsine transformation method**
   
