@@ -29,7 +29,8 @@ Efforts to replicate past psychological study findings often fail to yield consi
   
 ![Shiny App](/images/MRP.png)
 
-   Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
+   Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. A working paper (AERA proposal) is [available here.]           
+   (https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf)
 
 - Effect size, heterogeneity, and power of direct replications
 
