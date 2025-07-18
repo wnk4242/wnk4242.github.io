@@ -46,7 +46,7 @@ The following table shows the median retrospective power of a few selected meta-
 | …                                                                                             | …                           |
 
 Completion of this work will raise awareness within the academic community about the prevalence of under-powered research in top-tier journals. Based on MRP, we can build a database to provide researchers with potential replication topics in psychology and their probabilities of being successfully replicated.A working paper (AERA proposal) is [available here.](https://wnk4242.github.io/files/power paper.pdf) Peer-reviewers' feedback is [available here.](https://wnk4242.github.io/files/power paper feedback.pdf). I presented this work in a poster session at the Modern Modeling Methods conference (view the [poster](https://wnk4242.github.io/files
-/M3-2.pdf).
+/M3-2.pdf)).
 
 
 
