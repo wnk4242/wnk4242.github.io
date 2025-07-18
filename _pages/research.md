@@ -106,7 +106,7 @@ After each session, CoviPanel provides a clear summary of your screening activit
 
 
 <h2 id="generative-ai-for-education" style="text-align: center;">Generative AI for Education</h2>
-My AI-related research examines the use of large language models in second-language learning, work I presented at the 22nd International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. I summarized this study in a 5-minute mini presentation, which you can [watch here](https://drive.google.com/file/d/1F6_0KOGe7-sB9vEN5HcJZHvz-9sK_rPr/preview)
+My AI-related research examines the use of large language models in second-language learning, work I presented at the 22nd International Conference on Pragmatics and Language Learning in 2024. Specifically, I investigate whether models such as ChatGPT can effectively assist non-native English speakers in producing appropriate responses across diverse social contexts. I summarized this study in a 5-minute mini presentation, which you can [watch here](https://drive.google.com/file/d/1F6_0KOGe7-sB9vEN5HcJZHvz-9sK_rPr/preview).
 
 ![Shiny App](/images/cvh.png)
 
