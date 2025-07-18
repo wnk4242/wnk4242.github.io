@@ -17,14 +17,14 @@ Efforts to replicate past psychological study findings often fail to yield consi
 **1. The application of Bayesian meta-analysis in the evaluation of direct replications**
 
 Psychologists are currently faced with a pressing methodological challenge: developing a  framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian hypothesis testing
-within a meta-analytic framework and explore how well such an approach answers the following question: “Do the pooled data from replications support or refute the presence of the psychological 
-effect?”
+within a meta-analytic framework and explore how well such an approach answers the following question: *“Do the pooled data from replications support or refute the presence of the psychological 
+effect?”*
 
 Deploying R-based simulation code on high-performance computing clusters, I created research environments with different levels of p-hacking, publication bias, and statistical power:
 
 ![Shiny App](/images/publication_process.png)
 
-The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. An overview of the study is available in my GitHub repository [here](https://github.com/wnk4242/MetaBayes_Evaluation).
+The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. An overview of the study is available in my [GitHub repository](https://github.com/wnk4242/MetaBayes_Evaluation). I also developed Shiny apps to facilitate data analysis and visualization ([link to app](https://quantpsych.shinyapps.io/SimulationAnalysis/)).
 <hr style="border-top: 1px dotted #999;">
 
 **2. Credibility of research findings in educational psychology**
