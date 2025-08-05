@@ -17,6 +17,9 @@ My expertise encompasses a broad spectrum of statistical techniques and tools, i
 
 [View CV](https://wnk4242.github.io/files/CV_2025.pdf)
 
+Most of my simulations are conducted on high-performance computing servers:
+![hpc](/images/hpc.png)
+
 [comment]: <> (My PhD advisor is Dr. Christopher Thompson. Here's a link to his [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About).)
 
 {::comment}
