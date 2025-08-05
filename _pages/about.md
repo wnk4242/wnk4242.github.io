@@ -21,7 +21,7 @@ One of the coolest computational skills I've picked up for research is high-perf
 
 ![hpc](/images/hpc.png)
 
-Whether it's through university clusters or cloud-based platforms, HPC has completely transformed the way I do research. Tasks that would’ve taken months on a regular computer now wrap up in just a week or two—while crunching through tens of millions of data points! This kind of power doesn’t just save time—it opens the door to more ambitious, complex, and exciting research questions.
+Whether it's through university clusters or cloud-based platforms, HPC has completely transformed the way I do research. Tasks that would’ve taken months on a regular computer now wrap up in just a week or even days—while crunching through tens of millions of data points! This kind of power doesn’t just save time—it opens the door to more ambitious, complex, and exciting research questions.
 
 [comment]: <> (My PhD advisor is Dr. Christopher Thompson. Here's a link to his [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About).)
 
