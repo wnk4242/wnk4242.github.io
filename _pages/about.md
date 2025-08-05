@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
+# About me ([View CV](https://wnk4242.github.io/files/CV_2025.pdf))
 
 My PhD journey is driven by a curiosity about how we can enhance research replicability. My work is dedicated to improving the evaluation and planning of close replications, as well as assessing the credibility of psychological findings. As an aspiring early-career researcher, my ultimate goal is to pioneer methods for guiding science to make our research more robust and reproducible.
 
@@ -15,7 +15,7 @@ I also work on methodological issues in meta-analytic methods, with a particular
 
 My expertise encompasses a broad spectrum of statistical techniques and tools, including Monte Carlo simulations, high-performance computing, Shiny App development, Bayesian analysis, mixed-effects modeling, among others. With nearly a decade of experience in statistical programming using R, I am passionate about educating the public in R programming for the greater good. You can view my video tutorial to see a glimpse of my teaching approach in R, [available here](https://www.youtube.com/watch?v=2wbXTFvaRnM&t=764s).
 
-[View CV](https://wnk4242.github.io/files/CV_2025.pdf)
+
 
 Most of my simulations are conducted on high-performance computing servers:
 
