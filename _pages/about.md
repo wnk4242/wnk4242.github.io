@@ -21,7 +21,7 @@ One of the coolest computational skills I've picked up for research is high-perf
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/hprcintro.gif" />
+  <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/hpcintro.gif" />
 </p>
 
 
