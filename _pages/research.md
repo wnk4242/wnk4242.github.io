@@ -16,7 +16,7 @@ Efforts to replicate past psychological study findings often fail to yield consi
 
 **1. The application of Bayesian meta-analysis in the evaluation of direct replications**
 
-Psychologists are currently faced with a pressing methodological challenge: developing a  framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian hypothesis testing
+Psychologists are currently faced with a pressing methodological challenge: developing a framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian hypothesis testing
 within a meta-analytic framework and explore how well such an approach answers the following question: *“Do the pooled data from replications support or refute the presence of the psychological 
 effect?”*
 
@@ -24,13 +24,7 @@ Deploying R-based simulation code on high-performance computing clusters, I crea
 
 ![envir](/images/research_environment_enhanced.jpg)
 
-The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. 
-
-An overview of the study is available in my [GitHub repository](https://github.com/wnk4242/MetaBayes_Evaluation). 
-
-{::comment} I have also developed Shiny apps to facilitate data analysis and visualization. I use [ROC curves](https://quantpsych.shinyapps.io/ROCurve/) and [pie charts](https://quantpsych.shinyapps.io/piechartmetrics/) to compare MABF methods. I use [beta regression model and other tests](https://quantpsych.shinyapps.io/SimulationAnalysis/) to explore the influence of methodological factors on the replication results. 
-<hr style="border-top: 1px dotted #999;"> {:/comment}
-
+The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. An overview of the study is available in my [GitHub repository](https://github.com/wnk4242/MetaBayes_Evaluation). 
 
 **2. Credibility of research findings in educational psychology**
   
