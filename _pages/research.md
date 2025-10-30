@@ -16,15 +16,22 @@ Efforts to replicate past psychological study findings often fail to yield consi
 
 **1. The application of Bayesian meta-analysis in the evaluation of direct replications**
 
-Psychologists are currently faced with a pressing methodological challenge: developing a framework to evaluate outcomes of replications. In my dissertation, I propose adopting the Bayesian hypothesis testing
-within a meta-analytic framework and explore how well such an approach answers the following question: *“Do the pooled data from replications support or refute the presence of the psychological 
-effect?”*
+Psychologists are currently faced with a pressing methodological challenge: developing a framework to evaluate outcomes of replications. My doctoral work introduces a new replication success classification framework for multi-lab replication studies that goes beyond the traditional binary distinction of replication success and failure. The framework distinguishes between true and false replication successes and failures, revealing the underlying composition of observed replication results and how they are shaped by study-level factors in both the original and replication studies. 
 
-Deploying R-based simulation code on high-performance computing clusters, I created research environments with different levels of p-hacking, publication bias, and statistical power:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/structure of replication outcomes.png" />
+</p>
+
+The diagram above is a conceptual illustration of how p-hacking and publication bias in original studies influence replication outcomes when the true effect does not exist. The original studies, affected by p-hacking and publication bias, are more likely to report false significant findingseven in the absence of a genuen effect. In contrast, replication studies are preregistered and unbiased, yielding results that accurately reflect the true null effect. The discrepancy between the biased originals and unbiased replications produces a larger proportion of false replication failures and a smaller proportion of true successes.
+
+My work answers two questions: (1) When original and replication findings are consistent (replication success), how likely are they both to be correct or incorrect? and (2) Conversely, when the original and replication findings are inconsistent (replication failure), how likely are the original results to be correct and how likely are the replication results to be correct? 
+
+To answer these questions, I simulated both original studies and their direct replications. Deploying R-based simulation code on high-performance computing clusters, I created research environments with different levels of p-hacking, publication bias, and statistical power:
 
 ![envir](/images/research_environment_enhanced.jpg)
 
-The study provides strong evidence that meta-analytic Bayesian hypothesis testing is more effective in supporting the absence of null effects than in confirming the presence of true effects. This work expands the Bayesian perspective on evaluating replication outcomes, demonstrating the value of Bayesian hypothesis testing as a valuable tool for future large-scale, multi-lab replication projects. An overview of the study is available in my [GitHub repository](https://github.com/wnk4242/MetaBayes_Evaluation). 
+The framework illustrates how bias and methodological choices influence the underlying composition of replication outcomes. These findings provide a more nuanced understanding of replication results and offer practical guidance for designing and
+evaluating future large-scale replication projects to strengthen research reproducibility. An overview of the study is available in my [GitHub repository](https://github.com/wnk4242/MetaBayes_Evaluation). 
 
 **2. Credibility of research findings in educational psychology**
   
