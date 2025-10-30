@@ -28,8 +28,9 @@ The study provides strong evidence that meta-analytic Bayesian hypothesis testin
 
 An overview of the study is available in my [GitHub repository](https://github.com/wnk4242/MetaBayes_Evaluation). 
 
-I have also developed Shiny apps to facilitate data analysis and visualization. I use [ROC curves](https://quantpsych.shinyapps.io/ROCurve/) and [pie charts](https://quantpsych.shinyapps.io/piechartmetrics/) to compare MABF methods. I use [beta regression model and other tests](https://quantpsych.shinyapps.io/SimulationAnalysis/) to explore the influence of methodological factors on the replication results. 
-<hr style="border-top: 1px dotted #999;">
+{::comment} I have also developed Shiny apps to facilitate data analysis and visualization. I use [ROC curves](https://quantpsych.shinyapps.io/ROCurve/) and [pie charts](https://quantpsych.shinyapps.io/piechartmetrics/) to compare MABF methods. I use [beta regression model and other tests](https://quantpsych.shinyapps.io/SimulationAnalysis/) to explore the influence of methodological factors on the replication results. 
+<hr style="border-top: 1px dotted #999;"> {:/comment}
+
 
 **2. Credibility of research findings in educational psychology**
   
