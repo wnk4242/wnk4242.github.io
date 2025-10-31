@@ -13,13 +13,6 @@ My PhD journey is driven by a curiosity about how we can enhance research replic
 
 My doctoral work introduces a new replication success classification framework for multi-lab replication studies that goes beyond the traditional binary distinction of replication success and failure. The framework distinguishes between true and false replication successes and failures, revealing the underlying composition of observed replication results and how they are shaped by study-level factors in both the original and replication studies.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/structure of replication outcomes.png" />
-</p>
-
-The diagram above is a conceptual illustration of how p-hacking and publication bias in original studies influence replication outcomes when the true effect does not exist. The original studies, affected by p-hacking and publication bias, are more likely to report false significant findingseven in the absence of a genuen effect. In contrast, replication studies are preregistered and unbiased, yielding results that accurately reflect the true null effect. The discrepancy between the biased originals and unbiased replications produces a larger proportion of false replication failures and a smaller proportion of true successes.
-
-
 I also work on methodological issues in meta-analytic methods, with a particular focus on the meta-analysis of proportions. My comprehensive [tutorial](https://www.researchgate.net/publication/375451196_Conducting_Meta-analyses_of_Proportions_in_R) in this area has become a widely referenced resource in fields such as epidemiology, medicine, public health, and more. I collaborate with researchers from diverse disiplines to conduct systematic reviews and meta-analyses. I have developed a research tool for systematic review called [CoviPanel](https://github.com/wnk4242/CoviPanel). It is a ChatGPT-assisted browser extension built for facilitating title and abstract screening in Covidence.
 
 My expertise encompasses a broad spectrum of statistical techniques and tools, including Monte Carlo simulations, high-performance computing, Shiny App development, Bayesian analysis, mixed-effects modeling, among others. With nearly a decade of experience in statistical programming using R, I am passionate about educating the public in R programming for the greater good. You can view my video tutorial to see a glimpse of my teaching approach in R, [available here](https://www.youtube.com/watch?v=2wbXTFvaRnM&t=764s).
