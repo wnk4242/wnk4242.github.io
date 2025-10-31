@@ -19,7 +19,7 @@ My expertise encompasses a broad spectrum of statistical techniques and tools, i
 
 
 
-One of the coolest computational skills I've picked up for research is high-performance computing (HPC). I run large-scale simulations on HPC servers—like Grace, Texas A&M University's powerful computing cluster. Whether it's through university clusters or cloud-based platforms, HPC has completely transformed the way I do research. Tasks that would’ve taken months on a regular computer now wrap up in just a week or even days—while crunching through tens of millions of data points! This kind of power doesn’t just save time—it opens the door to more ambitious, complex, and exciting research questions.
+One of the coolest computational skills I've picked up for research is high-performance computing (HPC). I run large-scale simulations on HPC servers in the university or on cloud-based platforms, like AWS EC2. Using HPC, simulations that would’ve taken months on a regular computer now wrap up in just a week or even days! This kind of power opens the door to more ambitious, complex, and exciting research questions.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/sbatchhprc.gif" />
