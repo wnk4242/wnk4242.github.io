@@ -24,10 +24,3 @@ One of the coolest computational skills I've picked up for research is high-perf
 <p align="center">
   <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/sbatchhprc.gif" />
 </p>
-
-
-[comment]: <> (My PhD advisor is Dr. Christopher Thompson. Here's a link to his [biography](https://scholars.library.tamu.edu/vivo/display/n969def72/Persons/About).)
-
-{::comment}
-comment text
-{:/comment}
