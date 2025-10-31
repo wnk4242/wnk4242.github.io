@@ -24,7 +24,7 @@ Psychologists are currently faced with a pressing methodological challenge: deve
 
 The diagram above is a conceptual illustration of how p-hacking and publication bias in original studies influence replication outcomes when the true effect does not exist. The original studies, affected by p-hacking and publication bias, are more likely to report false significant findingseven in the absence of a genuen effect. In contrast, replication studies are preregistered and unbiased, yielding results that accurately reflect the true null effect. The discrepancy between the biased originals and unbiased replications produces a larger proportion of false replication failures and a smaller proportion of true successes.
 
-My work answers two questions: (1) When original and replication findings are consistent (replication success), how likely are they both to be correct or incorrect? and (2) Conversely, when the original and replication findings are inconsistent (replication failure), how likely are the original results to be correct and how likely are the replication results to be correct? 
+My work answers two questions: (1) _When original and replication findings are consistent (replication success), how likely are they both to be correct or incorrect?_ and (2) _Conversely, when the original and replication findings are inconsistent (replication failure), how likely are the original results to be correct and how likely are the replication results to be correct?_ 
 
 To answer these questions, I simulated both original studies and their direct replications. Deploying R-based simulation code on high-performance computing clusters, I created research environments with different levels of p-hacking, publication bias, and statistical power:
 
