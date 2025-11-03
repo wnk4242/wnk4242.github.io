@@ -14,7 +14,7 @@ author_profile: true
 <h2 id="research-replicability" style="text-align: center;">Research Replicability</h2>
 Efforts to replicate past psychological study findings often fail to yield consistent results. Psychologists have conducted several large-scale multi-lab replication projects (such as the Many Labs series) to reassess the credibility of earlier findings. I am currently pursuing three lines of research to enhance our understanding of research replicability:
 
-**1. The application of Bayesian meta-analysis in the evaluation of direct replications**
+**1. Evaluation of multisite replication study results**
 
 Psychologists are currently faced with a pressing methodological challenge: developing a framework to evaluate outcomes of replications. My doctoral work introduces a new replication success classification framework for multi-lab replication studies that goes beyond the traditional binary distinction of replication success and failure. The framework distinguishes between true and false replication successes and failures, revealing the underlying composition of observed replication results and how they are shaped by study-level factors in both the original and replication studies. 
 
