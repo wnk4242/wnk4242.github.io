@@ -19,7 +19,7 @@ Efforts to replicate past psychological study findings often fail to yield consi
 Psychologists are currently faced with a pressing methodological challenge: developing a framework to evaluate outcomes of replications. My doctoral work introduces a new replication success classification framework for multi-lab replication studies that goes beyond the traditional binary distinction of replication success and failure. The framework distinguishes between true and false replication successes and failures, revealing the underlying composition of observed replication results and how they are shaped by study-level factors in both the original and replication studies. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/structure of replication outcomes.png" />
+  <img src="https://raw.githubusercontent.com/wnk4242/wnk4242.github.io/master/images/beyond binary structure.png" />
 </p>
 
 The diagram above is a conceptual illustration of how p-hacking and publication bias in original studies influence replication outcomes when the true effect does not exist. The original studies, affected by p-hacking and publication bias, are more likely to report false significant findingseven in the absence of a genuen effect. In contrast, replication studies are preregistered and unbiased, yielding results that accurately reflect the true null effect. The discrepancy between the biased originals and unbiased replications produces a larger proportion of false replication failures and a smaller proportion of true successes.
