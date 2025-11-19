@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me ([View CV](https://wnk4242.github.io/files/CV_2025.pdf))
+# About me ([View CV](https://wnk4242.github.io/files/CV_2025_2.pdf))
 
 My PhD journey is driven by a curiosity about how we can enhance research replicability. My work is dedicated to improving the evaluation and planning of close replications, as well as assessing the credibility of psychological findings. As an aspiring early-career researcher, my ultimate goal is to pioneer methods for guiding science to make our research more robust and reproducible. 
 
